@@ -1,1 +1,1 @@
-<a href="https://blurrloadingpage.netlify.app/" >Website Link</a>
+<a href="https://blurrloadingpage.netlify.app/">Website Link</a>
